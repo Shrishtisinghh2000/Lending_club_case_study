@@ -59,6 +59,4 @@ Univariate Analysis
 Bivariate Analysis
 
 
-Multivariate Analysis
 
-Conclusion
