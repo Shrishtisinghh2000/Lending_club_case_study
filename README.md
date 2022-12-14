@@ -49,9 +49,16 @@ If one is able to identify these risky loan applicants, then such loans can be r
  
  
 Steps involved:
+
 Data Understanding
+
 Data Cleaning
+
 Univariate Analysis
+
 Bivariate Analysis
+
+
 Multivariate Analysis
+
 Conclusion
